@@ -41,7 +41,6 @@
 - **JDK**: Java 21 (рекомендуется [Microsoft Build of OpenJDK 21](https://learn.microsoft.com/en-us/java/openjdk/))
 - **Сборка**: Gradle 8+
 
-> 💡 Не используй терминал — всё работает через **IntelliJ IDEA**!
 
 ---
 
